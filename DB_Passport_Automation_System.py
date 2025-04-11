@@ -16,7 +16,7 @@ from mysql.connector import errorcode
 
 conn = mysql.connector.connect(
     user='root', 
-    password='2312',
+    password='0000',
     host='Localhost',
     port='3306',
     database='passport_automation')
